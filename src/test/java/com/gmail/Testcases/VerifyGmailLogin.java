@@ -6,7 +6,7 @@ import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.BeforeMethod;
-import sun.plugin.dom.html.HTMLDocument;
+//import sun.plugin.dom.html.HTMLDocument;
 
 import java.io.IOException;
 
